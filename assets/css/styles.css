@@ -71,10 +71,10 @@ section{padding:clamp(4.5rem,10vw,8rem) 0}
 .hero__lede{font-size:1.15rem;color:var(--ink-soft);max-width:34rem}
 .hero__cta{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:2rem}
 .hero__figure{margin:0;position:relative}
-.hero__figure img{aspect-ratio:4/5;object-fit:cover;object-position:60% center;border-radius:var(--r);box-shadow:18px 18px 0 var(--paper-2),18px 18px 0 1px var(--line)}
+.hero__figure img{aspect-ratio:4/5;object-fit:cover;object-position:58% 20%;border-radius:var(--r);box-shadow:18px 18px 0 var(--paper-2),18px 18px 0 1px var(--line)}
 .hero__figure figcaption{font:italic 400 .95rem var(--serif);color:var(--muted);margin-top:1.6rem}
 .hero__figure figcaption span{font:600 .7rem var(--sans);letter-spacing:.15em;color:var(--terra);margin-right:.6rem}
-.stamp{position:absolute;left:-46px;top:-34px;width:150px;height:150px;border-radius:50%;background:var(--terra);color:var(--paper);display:grid;place-items:center;transform:rotate(-12deg);box-shadow:0 10px 30px rgba(181,83,44,.25)}
+.stamp{position:absolute;right:-46px;top:-34px;width:150px;height:150px;border-radius:50%;background:var(--terra);color:var(--paper);display:grid;place-items:center;transform:rotate(12deg);box-shadow:0 10px 30px rgba(181,83,44,.25)}
 .stamp svg{position:absolute;inset:0;animation:spin 28s linear infinite}
 .stamp text{fill:var(--paper);font:600 13.5px var(--sans);letter-spacing:.2em}
 .stamp>span{font:500 1.6rem var(--serif);font-style:italic}
@@ -235,9 +235,9 @@ section{padding:clamp(4.5rem,10vw,8rem) 0}
   .nav a{padding:.8rem 0;font-size:1.1rem;width:100%;border-bottom:1px solid var(--line)}
   .nav__store{margin-top:1rem;width:auto!important;border-bottom:1px solid var(--ink)!important}
   .hero__grid,.longread,.services__grid,.contact__grid,.store__inner,.section-head--split{grid-template-columns:1fr}
-  .hero__figure{order:-1;margin-left:2rem}
+  .hero__figure{order:-1;margin-right:1rem}
   .hero__figure img{aspect-ratio:4/3}
-  .stamp{width:110px;height:110px;left:-2.4rem;top:-1.6rem}
+  .stamp{width:110px;height:110px;right:-.8rem;top:-1.6rem}
   .stamp text{font-size:13px}
   .stamp>span{font-size:1.2rem}
   .longread__aside,.services__figure{position:static}
