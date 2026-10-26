@@ -1,5 +1,7 @@
 # Cozy Sport — Portfolio (Diseño B · "Clásico")
 
+**Ver el sitio online:** [https://juancjose.github.io/cozy-portfolio-clasico/](https://juancjose.github.io/cozy-portfolio-clasico/)
+
 Rediseño de [cozysport.com/portfolio](https://cozysport.com/portfolio/) con estética editorial cálida: papel crema, azul marino, terracota y tipografía serif (Fraunces + Work Sans).
 
 Secciones: portada, cifras, historia (línea de tiempo 1983 → hoy + texto completo), proceso (del boceto a la prenda), servicios, video, equipo (la formación), tienda online, deportistas #TeamCozy (con filtro por disciplina) y contacto.
