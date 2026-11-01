@@ -1,4 +1,15 @@
-# Cozy Sport — Portfolio (Diseño B · "Clásico")
+<!-- jnce-header -->
+# Cozy Sport · Portfolio
+
+> Cozy Sport · Portfolio — Clásico (historia familiar)
+
+**🌐 Sitio online:** [juancjose.github.io/cozy-portfolio-clasico](https://juancjose.github.io/cozy-portfolio-clasico/)  
+**🛠️ Tecnologías:** HTML · CSS · JavaScript  
+**👤 Diseño y desarrollo:** [Juan José Cáceres](https://juancjose.github.io/jnce-studio/)
+
+![Vista previa de Cozy Sport · Portfolio](docs/preview.jpg)
+
+---
 
 **Ver el sitio online:** [https://juancjose.github.io/cozy-portfolio-clasico/](https://juancjose.github.io/cozy-portfolio-clasico/)
 
