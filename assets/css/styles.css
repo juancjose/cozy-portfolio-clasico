@@ -260,3 +260,6 @@ section{padding:clamp(4.5rem,10vw,8rem) 0}
   .js .reveal{opacity:1;transform:none}
   .sketch path{stroke-dashoffset:0}
 }
+
+/* Evita scroll horizontal en celulares */
+html,body{overflow-x:clip}
